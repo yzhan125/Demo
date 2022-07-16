@@ -7,7 +7,7 @@ export default function Home() {
         <title>AAhouse</title>
         <meta name='keywords' content='we'></meta>
       </Head>
-      <h1>hello NEXJS world</h1>
+      <h1>WELCOME NEXJS world</h1>
     </div>   
   )
 }
